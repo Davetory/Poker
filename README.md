@@ -1,3 +1,3 @@
 # Poker
-Simple Poker written in Rust and Haskell
-Pattern Matching based
+Simple Poker written in Rust and Haskell.
+Pattern Matching.\
